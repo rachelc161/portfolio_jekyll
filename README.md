@@ -1,1 +1,1 @@
-https://github.io/rachelc161/portfolio_jekyll/index.html
+http://rachelc161.github.io/portfolio_jekyll/index.html
